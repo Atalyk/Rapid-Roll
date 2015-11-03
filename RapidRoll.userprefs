@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Rapid Roll\Scripts\Score.cs">
+    <Files>
+      <File FileName="Assets\Rapid Roll\Scripts\RandomPlatforms.cs" Line="17" Column="34" />
+      <File FileName="Assets\Rapid Roll\Scripts\StartButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Rapid Roll\Scripts\GameOver.cs" Line="1" Column="1" />
+      <File FileName="Assets\Rapid Roll\Scripts\MovingPlatform.cs" Line="4" Column="7" />
+      <File FileName="Assets\Rapid Roll\Scripts\AllTextSizes.cs" Line="6" Column="4" />
+      <File FileName="Assets\Rapid Roll\Scripts\Score.cs" Line="4" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
